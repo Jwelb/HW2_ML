@@ -41,7 +41,7 @@ pip install scikit-learn numpy matplotlib yellowbrick
 # Confusion Matrix for the Best K
 - A confusion matrix for the clustering results with the best K is displayed as an image.
 
-<img src="markdownmonstericon.png"
+<img src="Screenshot 2023-10-05 at 3.50.46 PM.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 
