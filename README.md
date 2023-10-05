@@ -27,7 +27,6 @@ pip install scikit-learn numpy matplotlib yellowbrick
 
 - Run the script in your Python environment.
 - python kmeans_clustering.py
-- 
 # The script will display the following information:
 - The best value of K determined using the KElbowVisualizer.
 - The accuracy of the clustering results.
