@@ -1,15 +1,13 @@
 # K-Means Clustering with KElbowVisualizer
 
 ## Team Members
-- Jordan Welborn (john.doe@email.com)
-- Darian ODirling (jane.smith@email.com)
-- Ulysses ()
-
-This Python script demonstrates how to perform K-Means clustering on synthetic data using scikit-learn's KMeans class. It also uses the KElbowVisualizer from Yellowbrick to help determine the optimal number of clusters (k) and evaluates the clustering results using accuracy and a confusion matrix.
+- Jordan Welborn (welbornj21@students.ecu.edu)
+- Darian O'Dirling (odirlingd21@students.ecu.edu)
+- Ulysses Bueno (buenou19@students.ecu.edu)
 
 ## Prerequisites
 
-Before running the script, ensure you have the required Python packages installed:
+Before running the script, you must install these packages:
 
 - [scikit-learn](https://scikit-learn.org/stable/install.html)
 - [numpy](https://numpy.org/install/)
@@ -18,6 +16,7 @@ Before running the script, ensure you have the required Python packages installe
 
 You can install these packages using pip:
 
+For Example:
 pip install scikit-learn numpy matplotlib yellowbrick
 
 
@@ -27,11 +26,9 @@ pip install scikit-learn numpy matplotlib yellowbrick
 - Clone this repository or download the kmeans_clustering.py script.
 
 - Run the script in your Python environment.
-
-- Copy code
 - python kmeans_clustering.py
+- 
 # The script will display the following information:
-
 - The best value of K determined using the KElbowVisualizer.
 - The accuracy of the clustering results.
 - A confusion matrix for the best K.
@@ -44,7 +41,9 @@ pip install scikit-learn numpy matplotlib yellowbrick
 # Confusion Matrix for the Best K
 - A confusion matrix for the clustering results with the best K is displayed as an image.
 
-Confusion Matrix
+<img src="markdownmonstericon.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
 
 Feel free to reach out to the team members listed above if you have any questions or need further assistance.
 
