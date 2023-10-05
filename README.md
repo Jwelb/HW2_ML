@@ -45,10 +45,6 @@ pip install scikit-learn numpy matplotlib yellowbrick
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 
-Feel free to reach out to the team members listed above if you have any questions or need further assistance.
-
-vbnet
-Copy code
 
 
 
