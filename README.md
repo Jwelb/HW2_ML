@@ -1,5 +1,5 @@
 # Quick Start
--Clone this repository or download the kmeans_clustering.py script.
+- Clone this repository or download the kmeans_clustering.py script.
 
 - Run the script in your Python environment.
 
